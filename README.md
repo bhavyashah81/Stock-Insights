@@ -1,5 +1,5 @@
 # Stock Vision
-A comprehensive financial dashboard that consolidates stock market data, portfolio management, and social sentiment analysis into a single, user-friendly interface for traders and investors.
+A financial dashboard that consolidates stock market data, portfolio management, and social sentiment analysis into a single, user-friendly interface for traders and investors.
 
 ## Features
 - **Portfolio Management**: Track your stock investments with real-time price updates, percentage changes, and total portfolio value calculations
